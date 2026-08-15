@@ -8,7 +8,7 @@ A portfolio excerpt from an industrial control-system interface for configuring 
 
 | 24-switch overview | Module and relay configuration |
 |---|---|
-| ![Switch24 overview showing a hardware control dashboard](./phason%20(1).jpg) | ![Switch24 module and relay configuration interface](./phason%20(3).jpg) |
+| ![Switch24 overview showing a hardware control dashboard](./Phason1.jpg) | ![Switch24 module and relay configuration interface](./Phason2.jpg) |
 
 ## What the Interface Does
 
@@ -66,8 +66,8 @@ This work shows my ability to operate across the full stack: understand a hardwa
 ├── switch24-modal.php       # Module/relay configuration workflow
 ├── getSwitch24Info.php      # Aggregated configuration API
 ├── getSwitchKnobs.php       # Board switch and I/O API
-├── phason (1).jpg           # Dashboard screenshot
-└── phason (3).jpg           # Configuration screenshot
+├── Phason1.jpg              # Dashboard screenshot
+└── Phason2.jpg              # Configuration screenshot
 ```
 
 ## About the Developer
