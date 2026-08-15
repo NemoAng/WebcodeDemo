@@ -4,6 +4,8 @@ A portfolio excerpt from an industrial control-system interface for configuring 
 
 > This repository contains selected portfolio files rather than a standalone application. Production dependencies, shared assets, database schema, and proprietary services are intentionally not included.
 
+**Portfolio Use Notice:** This repository is provided solely to demonstrate the developer’s technical skills for employment and professional evaluation. It is not intended for commercial use, redistribution, deployment, or production use. All trademarks, product names, and third-party intellectual property remain the property of their respective owners.
+
 ## Interface Preview
 
 | 24-switch overview | Module and relay configuration |
