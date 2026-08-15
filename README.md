@@ -8,9 +8,21 @@ A portfolio excerpt from an industrial control-system interface for configuring 
 
 ## Interface Preview
 
+### Original Portfolio Concept
+
+These fictional, independently designed screens show how the same industrial-control concepts can be presented through a modern operator experience without using production branding or operational data.
+
+| 24-channel operations dashboard | Channel assignment workflow |
+|---|---|
+| ![NEXUS CONTROL 24-channel industrial IoT operations dashboard](./PSS1.png) | ![NEXUS CONTROL hardware module and channel assignment workflow](./PSS2.png) |
+
+### Sanitized Historical Interface
+
+These images document the original implementation context. Company, product, internal-environment, and identifying labels have been obscured for portfolio use.
+
 | 24-switch overview | Module and relay configuration |
 |---|---|
-| ![Switch24 overview showing a hardware control dashboard](./Phason1.jpg) | ![Switch24 module and relay configuration interface](./Phason2.jpg) |
+| ![Sanitized historical 24-switch control dashboard](./PA1.png) | ![Sanitized historical module and relay configuration interface](./PA2.png) |
 
 ## What the Interface Does
 
@@ -68,8 +80,10 @@ This work shows my ability to operate across the full stack: understand a hardwa
 ├── switch24-modal.php       # Module/relay configuration workflow
 ├── getSwitch24Info.php      # Aggregated configuration API
 ├── getSwitchKnobs.php       # Board switch and I/O API
-├── Phason1.jpg              # Dashboard screenshot
-└── Phason2.jpg              # Configuration screenshot
+├── PSS1.png                 # Original fictional dashboard concept
+├── PSS2.png                 # Original fictional assignment concept
+├── PA1.png                  # Sanitized historical dashboard
+└── PA2.png                  # Sanitized historical configuration view
 ```
 
 ## About the Developer
