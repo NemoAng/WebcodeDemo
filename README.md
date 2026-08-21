@@ -14,7 +14,7 @@ These fictional, independently designed screens show how the same industrial-con
 
 | 24-channel operations dashboard | Channel assignment workflow |
 |---|---|
-| ![NEXUS CONTROL 24-channel industrial IoT operations dashboard](./PSS1.png) | ![NEXUS CONTROL hardware module and channel assignment workflow](./PSS2.png) |
+| ![NEXUS CONTROL 24-channel industrial IoT operations dashboard](./_PSS1.png) | ![NEXUS CONTROL hardware module and channel assignment workflow](./PSS2.png) |
 
 ### Sanitized Historical Interface
 
@@ -80,7 +80,7 @@ This work shows my ability to operate across the full stack: understand a hardwa
 ├── switch24-modal.php       # Module/relay configuration workflow
 ├── getSwitch24Info.php      # Aggregated configuration API
 ├── getSwitchKnobs.php       # Board switch and I/O API
-├── PSS1.png                 # Original fictional dashboard concept
+├── _PSS1.png                 # Original fictional dashboard concept
 ├── PSS2.png                 # Original fictional assignment concept
 ├── PA1.png                  # Sanitized historical dashboard
 └── PA2.png                  # Sanitized historical configuration view
